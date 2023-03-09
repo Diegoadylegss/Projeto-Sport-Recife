@@ -54,9 +54,12 @@ nav {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 1px;   
-    color: #FFFFFF;
-    
+    color: #FFFFFF;    
 }
+
+button:hover{
+    opacity: .8;
+} 
 
 img {
     margin: 163px 0 0 123px;
