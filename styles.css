@@ -38,6 +38,11 @@ nav {
     
 }
 
+.link-menu:hover{
+    opacity: .8;
+    color:#fae104;
+}
+
 .img-logo {
     width: 625px;
     height: 425px;
